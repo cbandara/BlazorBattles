@@ -1,0 +1,9 @@
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\bin\Debug\netstandard2.1\BlazorBattles.Shared.deps.json
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\bin\Debug\netstandard2.1\BlazorBattles.Shared.dll
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\bin\Debug\netstandard2.1\BlazorBattles.Shared.pdb
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.AssemblyInfoInputs.cache
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.AssemblyInfo.cs
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.dll
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.pdb
+C:\Users\dbandara\Development\dotnet\Tutorials\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.csprojAssemblyReference.cache
